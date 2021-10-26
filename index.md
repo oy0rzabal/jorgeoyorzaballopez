@@ -1,4 +1,4 @@
-# Bienvenida o Bienvenido a mi Portfolio de Ciencia de Datos
+# Bienvenido a mi portafolio de Ciencias de Datos23 
 
 ---
 
@@ -15,17 +15,17 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 - Python
 - R
-- Excel
-- ...
+- PowerBI
+- PostgresSQL
+- MongoNoSQL
 
 ---
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/)
-- Correo electrónico a <correo@gmail.com>
+- [LinkedIn](https://www.linkedin.com/in/jorge-oyorzabal-6173201b9/)
+- Correo electrónico a <oy0rzabal.l0pez@gmail.com>
 - [GitHub](https://github.com/tu-github/)
-- [Twitter](https://twitter.com/tu-twitter)
 - [Medium](https://medium.com/@tu-medium)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
