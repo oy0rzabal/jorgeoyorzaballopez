@@ -3,7 +3,7 @@
 ---
 
 ## Mi primer proyecto
-[Titulo del proyecto con enlace](https://medium.com/pagina-entrada-blog)
+[Predicciones de Ratong de las aplicaciones de GoogleStore](https://medium.com/pagina-entrada-blog)
 
 Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/tu-repo)
 
