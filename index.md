@@ -10,7 +10,7 @@ La finalidad de este proyecto corto, fue por que queriamos dar un aporte mas sob
 
 ---
 
-### Mis Skills son
+### Mis Skills son:
 
 - Python
 - R
@@ -20,7 +20,7 @@ La finalidad de este proyecto corto, fue por que queriamos dar un aporte mas sob
 
 ---
 
-### Me puedes contactar por una de estás vías
+### Me puedes contactar por una de estás vías:
 
 - [LinkedIn](https://www.linkedin.com/in/jorge-oyorzabal-lopez-6173201b9)
 - Correo electrónico a <oy0rzabal.l0pez@gmail.com>
@@ -29,3 +29,5 @@ La finalidad de este proyecto corto, fue por que queriamos dar un aporte mas sob
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 ---
+
+### Certificaciones:
