@@ -3,7 +3,7 @@
 ---
 
 ## Mi primer proyecto
-# Predicciones de Ratong de las aplicaciones de GoogleStore
+### Predicciones de Ratong de las aplicaciones de GoogleStore
 
 Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/pagina-entrada-blog) o [Ver código en GitHub](https://github.com/oy0rzabal/Briefcase/blob/main/Machine_Learning/Predicciones%20de%20Rating.ipynb)
 
