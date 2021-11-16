@@ -1,4 +1,4 @@
-# Bienvenido a mi portafolio de Ciencias de Datos
+# Bienvenido a mi portafolio de Ciencias de Datos / IA y Desarrollo de Software
 
 ---
 
@@ -11,7 +11,8 @@ La finalidad de este proyecto corto, fue por que queriamos dar un aporte mas sob
 ## Segundo proyecto
 ### Agencia Inmobilaria
  El segundo proyecto se hizo con la finalidad de poderse adentrar en el mundo el "Machine Learning" donde empieza desde cero hasta fin, durante el proceso se va ir explicando paso a paso de como hacerlo, como pedir el problema que tienen hasta poder llegar a una conclucion y presentarla resuelta acorde de lo que nos esta pidiendo... [Seguir leyendo en Medium](https://medium.com/@oy0rzabal.l0pez/agencia-inmobiliaria-e2985e176b50) o [Ver código en GitHub](https://github.com/oy0rzabal/Real-estate-agency-project.)
- [<img src="images/2.png?raw=true"/>]
+ <img src="images/2.png?raw=true"/>
+ 
 ---
 
 ### Mis Skills son:
@@ -23,7 +24,8 @@ La finalidad de este proyecto corto, fue por que queriamos dar un aporte mas sob
 - MongoNoSQL
 - Flask
 - HTML5
-- CSS3
+- css3
+
 ---
 
 ### Me puedes contactar por una de estás vías:
