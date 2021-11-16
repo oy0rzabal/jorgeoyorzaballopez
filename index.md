@@ -23,7 +23,8 @@ La finalidad de este proyecto corto, fue por que queriamos dar un aporte mas sob
 - MongoNoSQL
 - Flask
 - HTML5
-- CSS3
+- css3
+
 ---
 
 ### Me puedes contactar por una de estás vías:
