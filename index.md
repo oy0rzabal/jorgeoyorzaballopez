@@ -34,7 +34,7 @@ La finalidad de este proyecto corto, fue por que queriamos dar un aporte mas sob
 - Correo electrónico a <oy0rzabal.l0pez@gmail.com>
 - [GitHub](https://github.com/oy0rzabal)
 - [Medium](https://medium.com/@oy0rzabal.l0pez)
-- [Mi CV](/pdf/cv.pdf.pdf)
+- [Mi CV](/pdf/cv.pdf)
 
 ---
 
