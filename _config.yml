@@ -12,6 +12,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/jorge-oyorzabal-lopez-6173201b9">Entra a mi perfil de LinkedIn</a> 
   <br><br>
-  <a href="/pdf/cv.pdf">Mira mi Curriculum Vitae</a>
+  <a href="/pdf/curriculum.pdf">Mira mi Curriculum Vitae</a>
   
 theme: jekyll-theme-minimal
