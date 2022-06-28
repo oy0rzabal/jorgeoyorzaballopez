@@ -17,14 +17,14 @@ La finalidad de este proyecto corto, fue por que queriamos dar un aporte mas sob
 
 ### Mis Skills son:
 
-- Python
-- Django
-- PowerBI
-- PostgresSQL
-- MongoNoSQL
-- Flask
-- HTML5
-- css3
+- Python y R estudio
+- Probabilidad y Estadistica
+- MongoDB y PostgreSQL
+- PowerBi
+- Servicios de AWS
+- Apache Spark
+- Apache Airflow
+- MLflow
 
 ---
 
